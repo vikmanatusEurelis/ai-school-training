@@ -6,9 +6,9 @@ Dataset used for this exercise is available on this [link](https://opendata.pari
 
 The final goal of this project is to initialize a prediction model for hourly bike flow at different points of the city
 
-This project at this point is only the first step on how we need to clean the dataset to begin crossing with different datasets (like weather...) into the goal to make the predictioon model
+This project at this point is only the first step on how we need to clean the dataset to begin crossing with different datasets (like weather...) into the goal to make the prediction model
 
-As soon as we understand what we are doing we will update this documentation to help you build your own 🚀
+As soon as we understand what we are doing we will update this documentation to help you build your own as we did 🚀
 
 Please reffer to `develop` branch ❤️
 
