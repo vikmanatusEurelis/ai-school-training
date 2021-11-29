@@ -2,6 +2,8 @@
 
 ## 📓 General notes
 
+Article used for iron and steel predictions is available on this [link](https://towardsdatascience.com/serving-prophet-model-with-flask-predicting-future-1896986da05f)
+
 Dataset used for this exercise is available on this [link](https://opendata.paris.fr/explore/dataset/comptage-velo-donnees-compteurs/export/?disjunctive.id_compteur&disjunctive.nom_compteur&disjunctive.id&disjunctive.name)
 
 The final goal of this project is to initialize a prediction model for hourly bike flow at different points of the city
